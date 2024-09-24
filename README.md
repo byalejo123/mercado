@@ -1,0 +1,2 @@
+# mercado
+explicacion de trigger
